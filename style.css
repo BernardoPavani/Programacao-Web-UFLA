@@ -32,7 +32,7 @@ body {
 #carminha {
     width: 50px;
     height: 80px;
-    background-image: url('/assets/fusca.png');
+    background-image: url('./assets/fusca.png');
     background-size: 100% 100%;
     position: absolute; 
     bottom: 20px; 
@@ -43,7 +43,7 @@ body {
     width: 50px;  
     height: 50px; 
 
- background-image: url('/assets/cone.png');
+ background-image: url('./assets/cone.png');
  
  background-size: contain; 
     background-repeat: no-repeat;
